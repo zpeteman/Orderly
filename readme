@@ -1,0 +1,42 @@
+# ORDERLY
+
+*A minimal C utility that scans your Downloads folder and moves new files to their rightful homes — Documents, Pictures, Videos — leaving the rest untouched.*
+
+---
+
+## ✦ Concept
+
+We waste time in digital clutter.  
+**SweepMind** was built to end that noise — a small, disciplined process that observes, classifies, and moves.  
+It learns nothing, predicts nothing, and yet, it brings order.  
+Simple logic, pure execution.
+
+---
+
+## ⚙️ Features
+- Scans your **Downloads** directory  
+- Moves new files into:
+  - `Documents/Recent Downloads/`
+  - `Pictures/Recent Downloads/`
+  - `Videos/Recent Downloads/`
+- Ignores unknown or unrecognized file types  
+- Runs quietly from terminal — fast and minimal
+
+---
+
+## 🧩 Built With
+- **Language:** C  
+- **Platform:** Windows (WinAPI)  
+- **Paradigm:** Structured minimalism
+
+---
+
+## 🌌 Vision
+> The mind sweeps,  
+> not to erase —  
+> but to remember what’s worth keeping.
+
+---
+
+## 🧱 License
+MIT License — free to use, modify, or expand.
